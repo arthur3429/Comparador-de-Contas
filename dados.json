@@ -1,0 +1,256 @@
+[
+    {
+        "banco": "Conta Digital BTG",
+        "imagem": "/logos/btg.webp",
+        "tipo_de_conta": "Pagamento",
+        "classificacao_da_conta": "Digital",
+        "tipo_de_cartao": "Crédito",
+        "taxa_de_manutencao": "Gratuita",
+        "saque": "R$ 2,20 com 8 gratuitos",
+        "TED_DOC": "Gratuitos e ilimitados",
+        "servicos": {
+            "consorcios": false,
+            "cambio": true,
+            "investimento": true,
+            "linha_de_credito": true,
+            "pix": true,
+            "seguros": true
+        },
+        "produtos_de_investimento": {
+            "acoes": true,
+            "cdb": true,
+            "fundos_de_investimento": true,
+            "fundos_imobiliarios": false,
+            "futuros": true,
+            "lca": true,
+            "lci": true,
+            "poupanca": false,
+            "tesouro_direto": true
+        },
+        "outras_caracteristicas": {
+            "conta_conjunta": false,
+            "permite_menor": false,
+            "rendimento_automatico": false,
+            "vinculado_ao_banco_24h": true
+        },
+        "pros": [
+            "Portfólio completo de investimentos",
+            "Não cobra manutenção da conta",
+            "Opção de cartão de crédito"
+        ],
+        "contras": ["Cobra taxa de saque quando excede o pacote"],
+        "canais_de_atendimento": {
+            "agencia": false,
+            "app": true,
+            "chat": true,
+            "email": true,
+            "tel": true
+        }
+    },
+    {
+        "banco": "Conta Confia Santander",
+        "imagem": "/logos/santander.webp",
+        "tipo_de_conta": "Corrente",
+        "classificacao_da_conta": "Digital",
+        "tipo_de_cartao": "Débito",
+        "taxa_de_manutencao": "R$ 24 - R$ 24",
+        "saque": "Gratuitos e ilimitados",
+        "TED_DOC": "Gratuitos e ilimitados",
+        "servicos": {
+            "consorcios": true,
+            "cambio": true,
+            "investimento": true,
+            "linha_de_credito": true,
+            "pix": true,
+            "seguros": true
+        },
+        "produtos_de_investimento": {
+            "acoes": true,
+            "cdb": true,
+            "fundos_de_investimento": true,
+            "fundos_imobiliarios": true,
+            "futuros": false,
+            "lca": true,
+            "lci": true,
+            "poupanca": true,
+            "tesouro_direto": true
+        },
+        "outras_caracteristicas": {
+            "conta_conjunta": false,
+            "permite_menor": false,
+            "rendimento_automatico": false,
+            "vinculado_ao_banco_24h": true
+        },
+        "pros": [
+            "Carteira digital way",
+            "10 dias sem juros no limite da conta para quem cadastra cpf ou celular como chave pix",
+            "Cesta de serviços completa",
+            "Atendimento presencial"
+        ],
+        "contras": [
+            "Exige movimentação mínima para isenção de tarifa",
+            "Análise para liberação de cartão de crédito"
+        ],
+        "canais_de_atendimento": {
+            "agencia": true,
+            "app": true,
+            "chat": true,
+            "email": true,
+            "tel": true
+        }
+    },
+    {
+        "banco": "Conta Digital Inter",
+        "imagem": "/logos/inter.webp",
+        "tipo_de_conta": "Corrente",
+        "classificacao_da_conta": "Digital",
+        "tipo_de_cartao": "Múltiplo",
+        "taxa_de_manutencao": "Gratuita",
+        "saque": "Gratuitos e ilimitados",
+        "TED_DOC": "Gratuitos e ilimitados",
+        "servicos": {
+            "consorcios": true,
+            "cambio": true,
+            "investimento": true,
+            "linha_de_credito": true,
+            "pix": true,
+            "seguros": true
+        },
+        "produtos_de_investimento": {
+            "acoes": true,
+            "cdb": true,
+            "fundos_de_investimento": true,
+            "fundos_imobiliarios": true,
+            "futuros": true,
+            "lca": true,
+            "lci": true,
+            "poupanca": true,
+            "tesouro_direto": true
+        },
+        "outras_caracteristicas": {
+            "conta_conjunta": false,
+            "permite_menor": false,
+            "rendimento_automatico": false,
+            "vinculado_ao_banco_24h": true
+        },
+        "pros": [
+            "Financiamento de imóveis",
+            "Plataforma de investimentos completa",
+            "Planos de celular exclusivos",
+            "Não cobra saques ou transferências",
+            "Cartão de crédito Gold e Black com cashback"
+        ],
+        "contras": ["Não oferece conta conjunta"],
+        "canais_de_atendimento": {
+            "agencia": false,
+            "app": true,
+            "chat": true,
+            "email": true,
+            "tel": true
+        }
+    },
+    {
+        "banco": "Conta Digital Neon",
+        "imagem": "/logos/neon.webp",
+        "tipo_de_conta": "Pagamento",
+        "classificacao_da_conta": "Digital",
+        "tipo_de_cartao": "Múltiplo",
+        "taxa_de_manutencao": "Gratuita",
+        "saque": "R$ 5,90 com 3 gratuitos",
+        "TED_DOC": "Gratuitos e ilimitados",
+        "servicos": {
+            "consorcios": false,
+            "cambio": true,
+            "investimento": true,
+            "linha_de_credito": true,
+            "pix": true,
+            "seguros": true
+        },
+        "produtos_de_investimento": {
+            "acoes": false,
+            "cdb": true,
+            "fundos_de_investimento": false,
+            "fundos_imobiliarios": false,
+            "futuros": false,
+            "lca": false,
+            "lci": false,
+            "poupanca": false,
+            "tesouro_direto": false
+        },
+        "outras_caracteristicas": {
+            "conta_conjunta": false,
+            "permite_menor": false,
+            "rendimento_automatico": false,
+            "vinculado_ao_banco_24h": true
+        },
+        "pros": [
+            "Cartão físico e virtual",
+            "CDB programado ou livre",
+            "Cartão pré-pago para compras no exterior (IOF + 4%)",
+            "Empréstimo pessoal com taxas a partir de 2,96% a.m."
+        ],
+        "contras": [
+            "Linha de crédito ainda não está liberada para consulta de todos clientes",
+            "Cobrança de saque"
+        ],
+        "canais_de_atendimento": {
+            "agencia": false,
+            "app": true,
+            "chat": true,
+            "email": true,
+            "tel": true
+        }
+    },
+    {
+        "banco": "Conta Digital Nubank",
+        "imagem": "/logos/nubank.webp",
+        "tipo_de_conta": "Pagamento",
+        "classificacao_da_conta": "Digital",
+        "tipo_de_cartao": "Múltiplo",
+        "taxa_de_manutencao": "Gratuita",
+        "saque": "R$ 6,50",
+        "TED_DOC": "Gratuitos e ilimitados",
+        "servicos": {
+            "consorcios": false,
+            "cambio": true,
+            "investimento": true,
+            "linha_de_credito": true,
+            "pix": true,
+            "seguros": true
+        },
+        "produtos_de_investimento": {
+            "acoes": true,
+            "cdb": true,
+            "fundos_de_investimento": true,
+            "fundos_imobiliarios": true,
+            "futuros": true,
+            "lca": true,
+            "lci": true,
+            "poupanca": false,
+            "tesouro_direto": true
+        },
+        "outras_caracteristicas": {
+            "conta_conjunta": false,
+            "permite_menor": true,
+            "rendimento_automatico": true,
+            "vinculado_ao_banco_24h": true
+        },
+        "pros": [
+            "Rendimento automático do saldo da conta",
+            "Cartão de crédito sem anuidade",
+            "Cartão de crédito Black com cashback"
+        ],
+        "contras": [
+            "Linha de crédito limitada",
+            "Cobrança de R$ 6,50 em todos os saques realizados",
+            "Anuidade do cartão de crédito Black é alta"
+        ],
+        "canais_de_atendimento": {
+            "agencia": false,
+            "app": true,
+            "chat": true,
+            "email": true,
+            "tel": true
+        }
+    }
+]
