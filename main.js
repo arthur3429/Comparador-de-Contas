@@ -2,7 +2,7 @@ let jsonData;
 // Acessa o arquivo JSON com os dados das instituições bancárias
 jQuery(document).ready(function () {
     jQuery.ajax({
-        url: "/dados.json",
+        url: "./dados.json",
         dataType: "json",
         success: function (data) {
             jsonData = data;

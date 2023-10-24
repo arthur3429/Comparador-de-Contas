@@ -1,7 +1,7 @@
 [
     {
         "banco": "Conta Digital BTG",
-        "imagem": "/logos/btg.webp",
+        "imagem": "./logos/btg.webp",
         "tipo_de_conta": "Pagamento",
         "classificacao_da_conta": "Digital",
         "tipo_de_cartao": "Crédito",
@@ -49,7 +49,7 @@
     },
     {
         "banco": "Conta Confia Santander",
-        "imagem": "/logos/santander.webp",
+        "imagem": "./logos/santander.webp",
         "tipo_de_conta": "Corrente",
         "classificacao_da_conta": "Digital",
         "tipo_de_cartao": "Débito",
@@ -101,7 +101,7 @@
     },
     {
         "banco": "Conta Digital Inter",
-        "imagem": "/logos/inter.webp",
+        "imagem": "./logos/inter.webp",
         "tipo_de_conta": "Corrente",
         "classificacao_da_conta": "Digital",
         "tipo_de_cartao": "Múltiplo",
@@ -151,7 +151,7 @@
     },
     {
         "banco": "Conta Digital Neon",
-        "imagem": "/logos/neon.webp",
+        "imagem": "./logos/neon.webp",
         "tipo_de_conta": "Pagamento",
         "classificacao_da_conta": "Digital",
         "tipo_de_cartao": "Múltiplo",
@@ -203,7 +203,7 @@
     },
     {
         "banco": "Conta Digital Nubank",
-        "imagem": "/logos/nubank.webp",
+        "imagem": "./logos/nubank.webp",
         "tipo_de_conta": "Pagamento",
         "classificacao_da_conta": "Digital",
         "tipo_de_cartao": "Múltiplo",
