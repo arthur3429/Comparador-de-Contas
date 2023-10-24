@@ -10,5 +10,5 @@ Este projeto consiste em um comparador de contas bancárias que permite aos usu�
 
 Você pode acessar o projeto através do seguinte link:
 
-[Comparador de Contas Bancárias](inserir_url_do_projeto_aqui)
+https://projetos.arthurdev.website/comparador-de-contas/
 
