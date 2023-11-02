@@ -1,6 +1,7 @@
 [
     {
         "banco": "Conta Digital BTG",
+        "link": "https://banking.btgpactual.com/",
         "imagem": "./logos/btg.webp",
         "tipo_de_conta": "Pagamento",
         "classificacao_da_conta": "Digital",
@@ -49,6 +50,7 @@
     },
     {
         "banco": "Conta Confia Santander",
+        "link": "https://www.santander.com.br/contaconfia",
         "imagem": "./logos/santander.webp",
         "tipo_de_conta": "Corrente",
         "classificacao_da_conta": "Digital",
@@ -101,6 +103,7 @@
     },
     {
         "banco": "Conta Digital Inter",
+        "link": "https://inter.co/pra-voce/conta-digital/pessoa-fisica/m",
         "imagem": "./logos/inter.webp",
         "tipo_de_conta": "Corrente",
         "classificacao_da_conta": "Digital",
@@ -151,6 +154,7 @@
     },
     {
         "banco": "Conta Digital Neon",
+        "link": "https://neon.com.br/",
         "imagem": "./logos/neon.webp",
         "tipo_de_conta": "Pagamento",
         "classificacao_da_conta": "Digital",
@@ -203,6 +207,7 @@
     },
     {
         "banco": "Conta Digital Nubank",
+        "link": "https://nubank.com.br/conta/",
         "imagem": "./logos/nubank.webp",
         "tipo_de_conta": "Pagamento",
         "classificacao_da_conta": "Digital",

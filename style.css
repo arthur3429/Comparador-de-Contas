@@ -21,6 +21,12 @@
     margin: 0 auto;
 }
 
+#body-form > * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 #body-form p {
     margin: 0;
 }
@@ -147,6 +153,17 @@
 .data-value p {
     width: calc(100% - 27px);
     font-weight: 500;
+}
+
+.link-externo {
+    padding: 4px 20px;
+    background-color: #1c1cda;
+    text-decoration: none;
+    color: white;
+    margin: 8px auto 0 auto;
+    border-radius: 4px;
+    font-weight: 600;
+    font-size: 14px;
 }
 
 .data-value.relative {
